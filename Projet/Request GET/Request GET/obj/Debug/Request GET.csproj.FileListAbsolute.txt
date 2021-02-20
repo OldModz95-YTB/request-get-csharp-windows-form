@@ -1,0 +1,10 @@
+D:\Fichier\Development\Projet VS\Csharp\C\Request API GET\Projet\Request GET\Request GET\bin\Debug\Request GET.exe.config
+D:\Fichier\Development\Projet VS\Csharp\C\Request API GET\Projet\Request GET\Request GET\bin\Debug\Request GET.exe
+D:\Fichier\Development\Projet VS\Csharp\C\Request API GET\Projet\Request GET\Request GET\bin\Debug\Request GET.pdb
+D:\Fichier\Development\Projet VS\Csharp\C\Request API GET\Projet\Request GET\Request GET\obj\Debug\Request GET.csprojAssemblyReference.cache
+D:\Fichier\Development\Projet VS\Csharp\C\Request API GET\Projet\Request GET\Request GET\obj\Debug\Request_GET.Form1.resources
+D:\Fichier\Development\Projet VS\Csharp\C\Request API GET\Projet\Request GET\Request GET\obj\Debug\Request_GET.Properties.Resources.resources
+D:\Fichier\Development\Projet VS\Csharp\C\Request API GET\Projet\Request GET\Request GET\obj\Debug\Request GET.csproj.GenerateResource.cache
+D:\Fichier\Development\Projet VS\Csharp\C\Request API GET\Projet\Request GET\Request GET\obj\Debug\Request GET.csproj.CoreCompileInputs.cache
+D:\Fichier\Development\Projet VS\Csharp\C\Request API GET\Projet\Request GET\Request GET\obj\Debug\Request GET.exe
+D:\Fichier\Development\Projet VS\Csharp\C\Request API GET\Projet\Request GET\Request GET\obj\Debug\Request GET.pdb

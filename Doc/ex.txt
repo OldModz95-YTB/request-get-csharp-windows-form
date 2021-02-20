@@ -1,0 +1,2 @@
+information = Request Information
+oldmodz95 = Request OldModz95

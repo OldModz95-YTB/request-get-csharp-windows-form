@@ -1,0 +1,17 @@
+//--Ajouter au using:
+//-- Add to using:
+
+using System.Net;
+
+
+//---A ajouer juste au dessus de la commande:
+//-To add just above the order:
+
+WebClient WebClient = new WebClient();
+
+
+//--puis dans un bouton mettre cela
+//--then in a button put this:
+
+Historique.Text = WebClient.DownloadString("lien exacte vers le texte");
+link API (folder)
